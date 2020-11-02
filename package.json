@@ -1,0 +1,23 @@
+{
+  "name": "simon-dice-2",
+  "version": "1.0.0",
+  "description": "juego",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facu142/simon-dice-2.git"
+  },
+  "author": "Facundo Montenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facu142/simon-dice-2/issues"
+  },
+  "homepage": "https://github.com/facu142/simon-dice-2#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
