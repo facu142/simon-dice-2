@@ -1,0 +1,19 @@
+.cuadro{
+    height: 200px;
+    opacity: 50%;
+    transition: opacity 500ms ;
+}
+#cuadro-1 {
+    background-color: red;
+}
+#cuadro-2 {
+    background-color: blue;
+}
+#cuadro-3 {
+    background-color: yellow;
+}
+#cuadro-4 {
+    background-color: green;
+}
+
+
